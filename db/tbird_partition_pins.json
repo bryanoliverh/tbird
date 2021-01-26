@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Left3",
+					"strict" : false
+				},
+				{
+					"name" : "Left2",
+					"strict" : false
+				},
+				{
+					"name" : "Left1",
+					"strict" : false
+				},
+				{
+					"name" : "right1",
+					"strict" : false
+				},
+				{
+					"name" : "right2",
+					"strict" : false
+				},
+				{
+					"name" : "right3",
+					"strict" : false
+				},
+				{
+					"name" : "hazard",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "rightin",
+					"strict" : false
+				},
+				{
+					"name" : "leftin",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

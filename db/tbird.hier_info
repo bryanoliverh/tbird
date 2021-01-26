@@ -1,0 +1,24 @@
+|tbird
+rightin => process_1.IN0
+rightin => process_1.IN1
+rightin => process_1.IN1
+leftin => process_1.IN1
+leftin => process_1.IN0
+leftin => process_1.IN0
+hazard => process_1.IN1
+hazard => Selector1.IN4
+hazard => process_1.IN1
+hazard => process_1.IN1
+hazard => S1.l2.DATAB
+hazard => S1.l3.DATAB
+hazard => S1.r2.DATAB
+hazard => S1.r3.DATAB
+clock => S0~1.DATAIN
+Left3 << Left3.DB_MAX_OUTPUT_PORT_TYPE
+Left2 << WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+Left1 << WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+right1 << WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+right2 << WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+right3 << right3.DB_MAX_OUTPUT_PORT_TYPE
+
+

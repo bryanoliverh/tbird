@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UI/smt4/psd/pr/tbird/bryan/simulation/modelsim
+Etb
+Z1 w1585062024
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/UI/smt4/psd/pr/tbird/bryan/tb.vhd
+Z5 FD:/UI/smt4/psd/pr/tbird/bryan/tb.vhd
+l0
+L6
+Vk4feOXHa<6i:OL]aV?jBH3
+!s100 _3R8KOjjlz[i1hG5JRm>h2
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1585062184
+!i10b 1
+Z8 !s108 1585062184.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/UI/smt4/psd/pr/tbird/bryan/tb.vhd|
+Z10 !s107 D:/UI/smt4/psd/pr/tbird/bryan/tb.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Abehave
+Z13 DEx4 work 5 tbird 0 22 nzo?`RNZH_51YGIBH_EMm0
+R2
+R3
+DEx4 work 2 tb 0 22 k4feOXHa<6i:OL]aV?jBH3
+l36
+L9
+VQLQSCNIZiWYVX`F[1J<dl3
+!s100 meD4fhcQMT;C7Pi:QJWKQ2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etbird
+Z14 w1585059998
+R2
+R3
+R0
+Z15 8D:/UI/smt4/psd/pr/tbird/bryan/tbird.vhd
+Z16 FD:/UI/smt4/psd/pr/tbird/bryan/tbird.vhd
+l0
+L5
+Vnzo?`RNZH_51YGIBH_EMm0
+!s100 ch7?b_:dzX[TUB[i>Xm9D2
+R6
+31
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/UI/smt4/psd/pr/tbird/bryan/tbird.vhd|
+Z18 !s107 D:/UI/smt4/psd/pr/tbird/bryan/tbird.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R2
+R3
+R13
+l17
+L14
+VcSVDglY:oi[U9k9EQ_fU<0
+!s100 ?8K>>U`L]S`>>]GbbOzA>3
+R6
+31
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12

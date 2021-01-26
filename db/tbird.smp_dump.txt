@@ -1,0 +1,11 @@
+
+State Machine - |tbird|S0
+Name S0.lr3 S0.r3 S0.r2 S0.r1 S0.l3 S0.l2 S0.l1 S0.steady 
+S0.steady 0 0 0 0 0 0 0 0 
+S0.l1 0 0 0 0 0 0 1 1 
+S0.l2 0 0 0 0 0 1 0 1 
+S0.l3 0 0 0 0 1 0 0 1 
+S0.r1 0 0 0 1 0 0 0 1 
+S0.r2 0 0 1 0 0 0 0 1 
+S0.r3 0 1 0 0 0 0 0 1 
+S0.lr3 1 0 0 0 0 0 0 1 
